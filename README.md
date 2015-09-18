@@ -23,7 +23,6 @@ $ omf install golang
 
 ```fish
 $ go-{os}-{arch}
-$ wgo-{os}-{arch}
 ```
 
 # License
